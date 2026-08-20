@@ -1,0 +1,1 @@
+Portafolio V3 final. Los proyectos VIGILANT e Inventario tienen fichas estáticas para que los enlaces no queden rotos. El sistema de inventario real requiere hosting con PHP/MySQL.
